@@ -6,4 +6,6 @@ This function will parse the results of a KQL query returned from the Log Analyt
 
 # Install
 You can install this module from the PowerShell Gallery 
+```PowerShell
 Install-Module -Name KQLParser
+```
