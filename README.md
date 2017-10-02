@@ -9,3 +9,9 @@ You can install this module from the PowerShell Gallery
 ```PowerShell
 Install-Module -Name KQLParser
 ```
+
+# API
+Refer to each solution API documentation for details on getting your return data
+
+[Application Insights REST API](https://dev.applicationinsights.io)
+[Azure Log Analytics REST API](https://dev.loganalytics.io/)
