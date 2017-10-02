@@ -14,4 +14,5 @@ Install-Module -Name KQLParser
 Refer to each solution API documentation for details on getting your return data
 
 [Application Insights REST API](https://dev.applicationinsights.io)
+
 [Azure Log Analytics REST API](https://dev.loganalytics.io/)
