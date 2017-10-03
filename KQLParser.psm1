@@ -51,7 +51,7 @@ Function ConvertFrom-LogAnalyticsJson
         [string]$JSON
     )
 
-    $results = ConvertFrom-LogAnalyticsJson $JSON
+    $results = ConvertFrom-Json $JSON
     $output = @()
     if(@($results.Tables).count -gt 1)
     {
